@@ -6,7 +6,7 @@ It provides a seamless online shopping experience with dynamic product managemen
 ---
 
 ## 🔗 Live Demo  
-👉 [View Project](https://yourecommercewebsite.vercel.app/)  
+👉 [View Project](https://devshopwebsite.vercel.app/)  
 *(Replace with actual link once deployed)*  
 
 ---
